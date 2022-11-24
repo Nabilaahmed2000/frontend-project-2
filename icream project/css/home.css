@@ -156,5 +156,8 @@ p{
 .button:hover{
 	background-color: hotpink;
 }
-
+h1{
+	display: block;
+	text-align: center;
+}
 
