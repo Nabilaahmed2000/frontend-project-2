@@ -156,5 +156,17 @@ p{
 .button:hover{
 	background-color: hotpink;
 }
+h1{
+	display: block;
+	text-align: center;
+}
+.footer {
+	position: fixed;
+	height: 200px;
+	width: 100%;
+	background-color: white;
+	color: hotpink;
+	text-align: center;
+ }
 
 
