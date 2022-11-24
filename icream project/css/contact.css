@@ -186,10 +186,9 @@ input[type=submit]{
 }
 
 input:hover[type=submit]{
-	/*width: 380px;
-	height: 45px;
-	border-radius: 25px;*/
+	
 	background-color: #e83e8c;
 	color: white;
 	border: #e83e8c;
 }
+
