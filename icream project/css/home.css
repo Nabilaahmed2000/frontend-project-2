@@ -7,8 +7,6 @@ body{
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-
-    
 }
 
 body::before{
@@ -39,6 +37,7 @@ body::before{
 #login-link:hover{
 	text-decoration: underline;
 	font-size: 21px;
+	color: white;
 }
 
 /* navbar */
@@ -114,9 +113,10 @@ a:hover {
 }
 
 /* navbar */
-#first{
+.first{
 	color:#62C3E7;
 }
+
 h2,p{
 	position: relative;
 	text-align: center;
